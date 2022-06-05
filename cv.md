@@ -23,7 +23,8 @@ Telegram: __[katyachuprina](t.me/katyachuprina)__
 
 
 
-### About myself
+## About myself
+
 
 After obtaining my master's degree in education I worked at the Belarusian National Technical University as a lecturer for 2 years. Closely working with students of Software Engineering, my interest in development grew up. Consequently, I started learning UI/UX Design and took two specializations at Google and California Institute of Arts. Having developed several app interfaces, I recognizes that it wasn't enough for me and I want to develop as a frontend developer. 
 
@@ -42,6 +43,7 @@ I reckon that my strong desire and skills can assist me in becoming great fronte
 
 
 ## Skills 
+
 
 * HTML, CSS 
 * JavaScript Basics 
@@ -62,6 +64,7 @@ I reckon that my strong desire and skills can assist me in becoming great fronte
 
 
 ## Code examples 
+
 
 The example of a solved kata from Codewars practising loops and algorithms:
 
@@ -98,10 +101,12 @@ function numberOfPairs(gloves) {
 
 ## Education 
 
+
 * Bachelor’s degree (2015-2018)
 
 
 * Master of Education (2018-2019)
+
 
 * UI / UX Design (Dec 2021 - in progress)
 
@@ -114,6 +119,7 @@ function numberOfPairs(gloves) {
 
 
 ## Languages 
+
 
 * Russian (native)
 * English (C1)
