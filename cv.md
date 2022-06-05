@@ -1,6 +1,6 @@
 # Katsiaryna Chupryna
 #### Junior Frontend Developer 
-___
+===
 
 
 ### Contacts
@@ -9,11 +9,10 @@ Phone: +375 (29) 297 25 59
 
 E-mail: chuprinakatya@gmail.com
 
-LinkedIn: __[Katheryna Chupryna](https://www.linkedin.com/in/katheryna-chupryna-288716222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMXNY81EoSU2eUhF4kf8e8g%3D%3D)__
+LinkedIn: [Katheryna Chupryna](https://www.linkedin.com/in/katheryna-chupryna-288716222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMXNY81EoSU2eUhF4kf8e8g%3D%3D)
 
-Telegram: __[katyachuprina](t.me/katyachuprina)__
-___
-
+Telegram: [katyachuprina](t.me/katyachuprina)
+===
 
 ### About myself
 
@@ -22,7 +21,7 @@ After obtaining my master's degree in education I worked at the Belarusian Natio
 I am keen on learning and challenging myself. My strong communicative skills help me in resolving obstacles. Besides, I can organize my work efficiently and effectively. 
 
 I reckon that my strong desire and skills can assist me in becoming great frontend developer. 
-___
+===
 
 
 ### Skills 
@@ -33,7 +32,7 @@ ___
 * VS Code 
 * Figma, Adobe XD 
 * Tilda
-___
+===
 
 
 ### Code examples 
@@ -66,6 +65,7 @@ function numberOfPairs(gloves) {
   return amount;
 }
 ```
+===
 
 
 ### Education 
@@ -74,15 +74,12 @@ function numberOfPairs(gloves) {
 * Master of Education (2018-2019)
 * UI / UX Design (Dec 2021 - in progress)
 *  Google UX Design Professional Certificate (Dec 2021 - in progress)
-___
+====
 
 
 ### Languages 
 
 * Russian (native)
-
 * English (C1)
-
 * Italian (B1)
-
 * German (A1)
