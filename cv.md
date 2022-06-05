@@ -108,10 +108,10 @@ function numberOfPairs(gloves) {
 * Master of Education (2018-2019)
 
 
-* UI / UX Design (Dec 2021 - in progress)
+* UI / UX Design (2021 - in progress)
 
 
-*  Google UX Design Professional Certificate (Dec 2021 - in progress)
+*  Google UX Design Professional Certificate (2021 - in progress)
 
 
 
