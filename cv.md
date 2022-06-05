@@ -1,14 +1,18 @@
 # Katsiaryna Chupryna
+
 ### Junior Frontend Developer 
 
-___
+
 
 ## Contacts
 
 
 Phone: +375 (29) 297 25 59
+
 E-mail: chuprinakatya@gmail.com
+
 LinkedIn: __[Katheryna Chupryna](https://www.linkedin.com/in/katheryna-chupryna-288716222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMXNY81EoSU2eUhF4kf8e8g%3D%3D)__
+
 Telegram: __[katyachuprina](t.me/katyachuprina)__
 
 
@@ -18,9 +22,6 @@ Telegram: __[katyachuprina](t.me/katyachuprina)__
 
 
 
-
-
-___
 
 ### About myself
 
@@ -33,7 +34,6 @@ I reckon that my strong desire and skills can assist me in becoming great fronte
 
 
 
-___
 
 
 
@@ -51,9 +51,6 @@ ___
 * Tilda
 
 
-
-
-___
 
 
 
@@ -109,15 +106,9 @@ function numberOfPairs(gloves) {
 * UI / UX Design (Dec 2021 - in progress)
 
 
-
-
-
 *  Google UX Design Professional Certificate (Dec 2021 - in progress)
 
 
-
-
-___
 
 
 
