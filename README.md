@@ -1,1 +1,1 @@
-https://katyachuprina.github.io/rsschool-cv/index
+https://katyachuprina.github.io/rsschool-cv/
