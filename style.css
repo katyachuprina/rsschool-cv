@@ -43,7 +43,11 @@ html {
     width: 250px;
     height: 250px;
   }
-  
+
+  .contacts_wrap {
+    display: flex;
+  }
+
   .description {
     margin-top: 1.25em;
   }
